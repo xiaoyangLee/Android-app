@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Embbed Login</string>
+    <string name="huanyin">Welcome</string>
+    <string name="name">账号：</string>
+    <string name="pass">密码：</string>
+    <string name="war1">保存账号密码</string>
+    <string name="log">登录</string>
+    <string name="huanyin1">数据回显</string>
+    <string name="call">拨打</string>
+    <string name="recount">输入要联系的人员</string>
+    <string name="tell_name">姓名：</string>
+
+</resources>
